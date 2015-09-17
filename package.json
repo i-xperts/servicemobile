@@ -1,0 +1,35 @@
+{
+  "name": "servicemobile",
+  "version": "0.0.0",
+  "description": "Webdesign frontend servicemobile",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-xperts/servicemobile.git"
+  },
+  "keywords": [
+    "web",
+    "design",
+    "rwd",
+    "mobile-first"
+  ],
+  "author": "Simon M. Waldburger <simon.waldburger@i-xperts.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i-xperts/servicemobile/issues"
+  },
+  "homepage": "https://github.com/i-xperts/servicemobile#readme"
+}
